@@ -1,7 +1,5 @@
-numpy
-pandas
-scikit-learn
-streamlit
-matplotlib
-seaborn
-openpyxl
+streamlit==1.40.2
+matplotlib==3.7.1
+seaborn==0.12.2
+pandas==2.2.3
+sklearn==1.2.0
